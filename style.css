@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+
+header{
+   background-color: gray;
+    
+   
+}
+header>h1{
+    color: white;
+}
+
+body{
+    
+}
+footer{
+    
+    max-width: 100px;
+}
